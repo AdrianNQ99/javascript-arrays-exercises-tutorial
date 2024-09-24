@@ -5,3 +5,4 @@ let prepender = function(name) {
 };
 
 // Your code here
+console.log(names.map(prepender))
